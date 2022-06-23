@@ -1,2 +1,1 @@
-print("Hi, by Elton. Update")
-print("Hot Fix")
+print("Hi, by Elton")
